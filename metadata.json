@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Progress Report Generator",
+  "description": "An application for educators to generate comprehensive student progress reports by synthesizing data from PowerSchool, IXL, and behavioral notes using AI.",
+  "requestFramePermissions": []
+}
